@@ -1,0 +1,316 @@
+[
+  {
+    "added_include_path": "C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.7\\cores\\esp32"
+  },
+  {
+    "added_include_path": "C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.7\\variants\\doitESP32devkitV1"
+  },
+  {
+    "compile": {
+      "source_path": "c:\\Users\\lordj\\Documents\\Arduino\\N_Mit4\\build\\sketch\\N_Mit4.ino.cpp",
+      "object_path": "c:\\Users\\lordj\\Documents\\Arduino\\N_Mit4\\build\\sketch\\N_Mit4.ino.cpp.o",
+      "depfile_path": "c:\\Users\\lordj\\Documents\\Arduino\\N_Mit4\\build\\sketch\\N_Mit4.ino.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp-x32\\2511/bin/xtensa-esp32-elf-g++",
+        "-c",
+        "@C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-libs\\3.3.7/flags/cpp_flags",
+        "-w",
+        "-Os",
+        "-Werror=return-type",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-DF_CPU=240000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_ESP32_DEV",
+        "-DARDUINO_ARCH_ESP32",
+        "-DARDUINO_BOARD=\"ESP32_DEV\"",
+        "-DARDUINO_VARIANT=\"doitESP32devkitV1\"",
+        "-DARDUINO_PARTITION_default",
+        "-DARDUINO_HOST_OS=\"windows\"",
+        "-DARDUINO_FQBN=\"esp32:esp32:esp32doit-devkit-v1:UploadSpeed=921600,FlashFreq=80,DebugLevel=none,EraseFlash=none\"",
+        "-DESP32=ESP32",
+        "-DCORE_DEBUG_LEVEL=0",
+        "-DARDUINO_USB_CDC_ON_BOOT=0",
+        "@C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-libs\\3.3.7/flags/defines",
+        "-IC:\\Users\\lordj\\Documents\\Arduino\\N_Mit4",
+        "-iprefix",
+        "C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-libs\\3.3.7/include/",
+        "@C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-libs\\3.3.7/flags/includes",
+        "-IC:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-libs\\3.3.7/dio_qspi/include",
+        "-IC:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.7\\cores\\esp32",
+        "-IC:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.7\\variants\\doitESP32devkitV1",
+        "@c:\\Users\\lordj\\Documents\\Arduino\\N_Mit4\\build/build_opt.h",
+        "@c:\\Users\\lordj\\Documents\\Arduino\\N_Mit4\\build/file_opts",
+        "c:\\Users\\lordj\\Documents\\Arduino\\N_Mit4\\build\\sketch\\N_Mit4.ino.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": "BluetoothSerial.h"
+  },
+  {
+    "added_include_path": "C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.7\\libraries\\BluetoothSerial\\src"
+  },
+  {
+    "compile": {
+      "source_path": "c:\\Users\\lordj\\Documents\\Arduino\\N_Mit4\\build\\sketch\\N_Mit4.ino.cpp",
+      "object_path": "c:\\Users\\lordj\\Documents\\Arduino\\N_Mit4\\build\\sketch\\N_Mit4.ino.cpp.o",
+      "depfile_path": "c:\\Users\\lordj\\Documents\\Arduino\\N_Mit4\\build\\sketch\\N_Mit4.ino.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp-x32\\2511/bin/xtensa-esp32-elf-g++",
+        "-c",
+        "@C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-libs\\3.3.7/flags/cpp_flags",
+        "-w",
+        "-Os",
+        "-Werror=return-type",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-DF_CPU=240000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_ESP32_DEV",
+        "-DARDUINO_ARCH_ESP32",
+        "-DARDUINO_BOARD=\"ESP32_DEV\"",
+        "-DARDUINO_VARIANT=\"doitESP32devkitV1\"",
+        "-DARDUINO_PARTITION_default",
+        "-DARDUINO_HOST_OS=\"windows\"",
+        "-DARDUINO_FQBN=\"esp32:esp32:esp32doit-devkit-v1:UploadSpeed=921600,FlashFreq=80,DebugLevel=none,EraseFlash=none\"",
+        "-DESP32=ESP32",
+        "-DCORE_DEBUG_LEVEL=0",
+        "-DARDUINO_USB_CDC_ON_BOOT=0",
+        "@C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-libs\\3.3.7/flags/defines",
+        "-IC:\\Users\\lordj\\Documents\\Arduino\\N_Mit4",
+        "-iprefix",
+        "C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-libs\\3.3.7/include/",
+        "@C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-libs\\3.3.7/flags/includes",
+        "-IC:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-libs\\3.3.7/dio_qspi/include",
+        "-IC:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.7\\cores\\esp32",
+        "-IC:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.7\\variants\\doitESP32devkitV1",
+        "-IC:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.7\\libraries\\BluetoothSerial\\src",
+        "@c:\\Users\\lordj\\Documents\\Arduino\\N_Mit4\\build/build_opt.h",
+        "@c:\\Users\\lordj\\Documents\\Arduino\\N_Mit4\\build/file_opts",
+        "c:\\Users\\lordj\\Documents\\Arduino\\N_Mit4\\build\\sketch\\N_Mit4.ino.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.7\\libraries\\BluetoothSerial\\src\\BTAddress.cpp",
+      "object_path": "c:\\Users\\lordj\\Documents\\Arduino\\N_Mit4\\build\\libraries\\BluetoothSerial\\BTAddress.cpp.o",
+      "depfile_path": "c:\\Users\\lordj\\Documents\\Arduino\\N_Mit4\\build\\libraries\\BluetoothSerial\\BTAddress.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp-x32\\2511/bin/xtensa-esp32-elf-g++",
+        "-c",
+        "@C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-libs\\3.3.7/flags/cpp_flags",
+        "-w",
+        "-Os",
+        "-Werror=return-type",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-DF_CPU=240000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_ESP32_DEV",
+        "-DARDUINO_ARCH_ESP32",
+        "-DARDUINO_BOARD=\"ESP32_DEV\"",
+        "-DARDUINO_VARIANT=\"doitESP32devkitV1\"",
+        "-DARDUINO_PARTITION_default",
+        "-DARDUINO_HOST_OS=\"windows\"",
+        "-DARDUINO_FQBN=\"esp32:esp32:esp32doit-devkit-v1:UploadSpeed=921600,FlashFreq=80,DebugLevel=none,EraseFlash=none\"",
+        "-DESP32=ESP32",
+        "-DCORE_DEBUG_LEVEL=0",
+        "-DARDUINO_USB_CDC_ON_BOOT=0",
+        "@C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-libs\\3.3.7/flags/defines",
+        "-IC:\\Users\\lordj\\Documents\\Arduino\\N_Mit4",
+        "-iprefix",
+        "C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-libs\\3.3.7/include/",
+        "@C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-libs\\3.3.7/flags/includes",
+        "-IC:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-libs\\3.3.7/dio_qspi/include",
+        "-IC:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.7\\cores\\esp32",
+        "-IC:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.7\\variants\\doitESP32devkitV1",
+        "-IC:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.7\\libraries\\BluetoothSerial\\src",
+        "@c:\\Users\\lordj\\Documents\\Arduino\\N_Mit4\\build/build_opt.h",
+        "@c:\\Users\\lordj\\Documents\\Arduino\\N_Mit4\\build/file_opts",
+        "C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.7\\libraries\\BluetoothSerial\\src\\BTAddress.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.7\\libraries\\BluetoothSerial\\src\\BTAdvertisedDeviceSet.cpp",
+      "object_path": "c:\\Users\\lordj\\Documents\\Arduino\\N_Mit4\\build\\libraries\\BluetoothSerial\\BTAdvertisedDeviceSet.cpp.o",
+      "depfile_path": "c:\\Users\\lordj\\Documents\\Arduino\\N_Mit4\\build\\libraries\\BluetoothSerial\\BTAdvertisedDeviceSet.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp-x32\\2511/bin/xtensa-esp32-elf-g++",
+        "-c",
+        "@C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-libs\\3.3.7/flags/cpp_flags",
+        "-w",
+        "-Os",
+        "-Werror=return-type",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-DF_CPU=240000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_ESP32_DEV",
+        "-DARDUINO_ARCH_ESP32",
+        "-DARDUINO_BOARD=\"ESP32_DEV\"",
+        "-DARDUINO_VARIANT=\"doitESP32devkitV1\"",
+        "-DARDUINO_PARTITION_default",
+        "-DARDUINO_HOST_OS=\"windows\"",
+        "-DARDUINO_FQBN=\"esp32:esp32:esp32doit-devkit-v1:UploadSpeed=921600,FlashFreq=80,DebugLevel=none,EraseFlash=none\"",
+        "-DESP32=ESP32",
+        "-DCORE_DEBUG_LEVEL=0",
+        "-DARDUINO_USB_CDC_ON_BOOT=0",
+        "@C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-libs\\3.3.7/flags/defines",
+        "-IC:\\Users\\lordj\\Documents\\Arduino\\N_Mit4",
+        "-iprefix",
+        "C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-libs\\3.3.7/include/",
+        "@C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-libs\\3.3.7/flags/includes",
+        "-IC:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-libs\\3.3.7/dio_qspi/include",
+        "-IC:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.7\\cores\\esp32",
+        "-IC:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.7\\variants\\doitESP32devkitV1",
+        "-IC:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.7\\libraries\\BluetoothSerial\\src",
+        "@c:\\Users\\lordj\\Documents\\Arduino\\N_Mit4\\build/build_opt.h",
+        "@c:\\Users\\lordj\\Documents\\Arduino\\N_Mit4\\build/file_opts",
+        "C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.7\\libraries\\BluetoothSerial\\src\\BTAdvertisedDeviceSet.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.7\\libraries\\BluetoothSerial\\src\\BTScanResultsSet.cpp",
+      "object_path": "c:\\Users\\lordj\\Documents\\Arduino\\N_Mit4\\build\\libraries\\BluetoothSerial\\BTScanResultsSet.cpp.o",
+      "depfile_path": "c:\\Users\\lordj\\Documents\\Arduino\\N_Mit4\\build\\libraries\\BluetoothSerial\\BTScanResultsSet.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp-x32\\2511/bin/xtensa-esp32-elf-g++",
+        "-c",
+        "@C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-libs\\3.3.7/flags/cpp_flags",
+        "-w",
+        "-Os",
+        "-Werror=return-type",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-DF_CPU=240000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_ESP32_DEV",
+        "-DARDUINO_ARCH_ESP32",
+        "-DARDUINO_BOARD=\"ESP32_DEV\"",
+        "-DARDUINO_VARIANT=\"doitESP32devkitV1\"",
+        "-DARDUINO_PARTITION_default",
+        "-DARDUINO_HOST_OS=\"windows\"",
+        "-DARDUINO_FQBN=\"esp32:esp32:esp32doit-devkit-v1:UploadSpeed=921600,FlashFreq=80,DebugLevel=none,EraseFlash=none\"",
+        "-DESP32=ESP32",
+        "-DCORE_DEBUG_LEVEL=0",
+        "-DARDUINO_USB_CDC_ON_BOOT=0",
+        "@C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-libs\\3.3.7/flags/defines",
+        "-IC:\\Users\\lordj\\Documents\\Arduino\\N_Mit4",
+        "-iprefix",
+        "C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-libs\\3.3.7/include/",
+        "@C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-libs\\3.3.7/flags/includes",
+        "-IC:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-libs\\3.3.7/dio_qspi/include",
+        "-IC:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.7\\cores\\esp32",
+        "-IC:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.7\\variants\\doitESP32devkitV1",
+        "-IC:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.7\\libraries\\BluetoothSerial\\src",
+        "@c:\\Users\\lordj\\Documents\\Arduino\\N_Mit4\\build/build_opt.h",
+        "@c:\\Users\\lordj\\Documents\\Arduino\\N_Mit4\\build/file_opts",
+        "C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.7\\libraries\\BluetoothSerial\\src\\BTScanResultsSet.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.7\\libraries\\BluetoothSerial\\src\\BluetoothSerial.cpp",
+      "object_path": "c:\\Users\\lordj\\Documents\\Arduino\\N_Mit4\\build\\libraries\\BluetoothSerial\\BluetoothSerial.cpp.o",
+      "depfile_path": "c:\\Users\\lordj\\Documents\\Arduino\\N_Mit4\\build\\libraries\\BluetoothSerial\\BluetoothSerial.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp-x32\\2511/bin/xtensa-esp32-elf-g++",
+        "-c",
+        "@C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-libs\\3.3.7/flags/cpp_flags",
+        "-w",
+        "-Os",
+        "-Werror=return-type",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-DF_CPU=240000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_ESP32_DEV",
+        "-DARDUINO_ARCH_ESP32",
+        "-DARDUINO_BOARD=\"ESP32_DEV\"",
+        "-DARDUINO_VARIANT=\"doitESP32devkitV1\"",
+        "-DARDUINO_PARTITION_default",
+        "-DARDUINO_HOST_OS=\"windows\"",
+        "-DARDUINO_FQBN=\"esp32:esp32:esp32doit-devkit-v1:UploadSpeed=921600,FlashFreq=80,DebugLevel=none,EraseFlash=none\"",
+        "-DESP32=ESP32",
+        "-DCORE_DEBUG_LEVEL=0",
+        "-DARDUINO_USB_CDC_ON_BOOT=0",
+        "@C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-libs\\3.3.7/flags/defines",
+        "-IC:\\Users\\lordj\\Documents\\Arduino\\N_Mit4",
+        "-iprefix",
+        "C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-libs\\3.3.7/include/",
+        "@C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-libs\\3.3.7/flags/includes",
+        "-IC:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-libs\\3.3.7/dio_qspi/include",
+        "-IC:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.7\\cores\\esp32",
+        "-IC:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.7\\variants\\doitESP32devkitV1",
+        "-IC:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.7\\libraries\\BluetoothSerial\\src",
+        "@c:\\Users\\lordj\\Documents\\Arduino\\N_Mit4\\build/build_opt.h",
+        "@c:\\Users\\lordj\\Documents\\Arduino\\N_Mit4\\build/file_opts",
+        "C:\\Users\\lordj\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.7\\libraries\\BluetoothSerial\\src\\BluetoothSerial.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  }
+]

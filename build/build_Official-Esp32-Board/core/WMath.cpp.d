@@ -1,0 +1,31 @@
+c:\Users\lordj\Documents\Arduino\N_Mit4\build\build_Official-Esp32-Board\core\WMath.cpp.o: \
+ C:\Users\lordj\AppData\Local\Arduino15\internal\esp32_esp32_3.3.7_78653acb7fbe0ee6\cores\esp32\WMath.cpp \
+ C:\Users\lordj\AppData\Local\Arduino15\internal\esp32_esp32-libs_3.3.7_f1fc744f750b9a8a/include/esp_system/include/esp_system.h \
+ C:\Users\lordj\AppData\Local\Arduino15\internal\esp32_esp32-libs_3.3.7_f1fc744f750b9a8a/include/esp_common/include/esp_err.h \
+ C:\Users\lordj\AppData\Local\Arduino15\internal\esp32_esp32-libs_3.3.7_f1fc744f750b9a8a/include/newlib/platform_include/stdio.h \
+ C:\Users\lordj\AppData\Local\Arduino15\internal\esp32_esp32-libs_3.3.7_f1fc744f750b9a8a/include/esp_common/include/esp_compiler.h \
+ C:\Users\lordj\AppData\Local\Arduino15\internal\esp32_esp32-libs_3.3.7_f1fc744f750b9a8a/include/esp_common/include/esp_attr.h \
+ C:\Users\lordj\AppData\Local\Arduino15\internal\esp32_esp32-libs_3.3.7_f1fc744f750b9a8a/include/esp_common/include/esp_bit_defs.h \
+ C:\Users\lordj\AppData\Local\Arduino15\internal\esp32_esp32-libs_3.3.7_f1fc744f750b9a8a/include/esp_common/include/esp_idf_version.h \
+ C:\Users\lordj\AppData\Local\Arduino15\internal\esp32_esp32_3.3.7_78653acb7fbe0ee6\cores\esp32\esp32-hal-log.h \
+ C:\Users\lordj\AppData\Local\Arduino15\internal\esp32_esp32-libs_3.3.7_f1fc744f750b9a8a/include/esp_timer/include/esp_timer.h \
+ C:\Users\lordj\AppData\Local\Arduino15\internal\esp32_esp32-libs_3.3.7_f1fc744f750b9a8a/include/esp_hw_support/include/esp_etm.h \
+ C:\Users\lordj\AppData\Local\Arduino15\internal\esp32_esp32-libs_3.3.7_f1fc744f750b9a8a/include/esp_rom/esp32/include/esp32/rom/ets_sys.h \
+ C:\Users\lordj\AppData\Local\Arduino15\internal\esp32_esp32-libs_3.3.7_f1fc744f750b9a8a/include/log/include/esp_log.h \
+ C:\Users\lordj\AppData\Local\Arduino15\internal\esp32_esp32-libs_3.3.7_f1fc744f750b9a8a/include/esp_rom/include/esp_rom_sys.h \
+ C:\Users\lordj\AppData\Local\Arduino15\internal\esp32_esp32-libs_3.3.7_f1fc744f750b9a8a/include/soc/esp32/include/soc/reset_reasons.h \
+ C:\Users\lordj\AppData\Local\Arduino15\internal\esp32_esp32-libs_3.3.7_f1fc744f750b9a8a/include/soc/esp32/include/soc/soc_caps.h \
+ C:\Users\lordj\AppData\Local\Arduino15\internal\esp32_esp32-libs_3.3.7_f1fc744f750b9a8a/include/log/include/esp_log_config.h \
+ C:\Users\lordj\AppData\Local\Arduino15\internal\esp32_esp32-libs_3.3.7_f1fc744f750b9a8a/include/log/include/esp_log_level.h \
+ C:\Users\lordj\AppData\Local\Arduino15\internal\esp32_esp32-libs_3.3.7_f1fc744f750b9a8a/include/esp_common/include/esp_assert.h \
+ C:\Users\lordj\AppData\Local\Arduino15\internal\esp32_esp32-libs_3.3.7_f1fc744f750b9a8a/include/log/include/esp_log_color.h \
+ C:\Users\lordj\AppData\Local\Arduino15\internal\esp32_esp32-libs_3.3.7_f1fc744f750b9a8a/include/log/include/esp_log_buffer.h \
+ C:\Users\lordj\AppData\Local\Arduino15\internal\esp32_esp32-libs_3.3.7_f1fc744f750b9a8a/include/log/include/esp_log_timestamp.h \
+ C:\Users\lordj\AppData\Local\Arduino15\internal\esp32_esp32-libs_3.3.7_f1fc744f750b9a8a/include/log/include/esp_log_write.h \
+ C:\Users\lordj\AppData\Local\Arduino15\internal\esp32_esp32-libs_3.3.7_f1fc744f750b9a8a/include/log/include/esp_log_format.h \
+ C:\Users\lordj\AppData\Local\Arduino15\internal\esp32_esp32-libs_3.3.7_f1fc744f750b9a8a/include/log/include/esp_log_args.h \
+ C:\Users\lordj\AppData\Local\Arduino15\internal\esp32_esp32-libs_3.3.7_f1fc744f750b9a8a/include/esp_common/include/esp_macros.h \
+ C:\Users\lordj\AppData\Local\Arduino15\internal\esp32_esp32-libs_3.3.7_f1fc744f750b9a8a/include/esp_common/include/esp_assert.h \
+ C:\Users\lordj\AppData\Local\Arduino15\internal\esp32_esp32-libs_3.3.7_f1fc744f750b9a8a/include/log/include/esp_log_attr.h \
+ C:\Users\lordj\AppData\Local\Arduino15\internal\esp32_esp32-libs_3.3.7_f1fc744f750b9a8a/include/log/include/esp_private/log_attr.h \
+ C:\Users\lordj\AppData\Local\Arduino15\internal\esp32_esp32-libs_3.3.7_f1fc744f750b9a8a/include/esp_hw_support/include/esp_random.h
