@@ -1,0 +1,11 @@
+# Arduino IDE / VS Code Arduino Extension
+.vscode/
+build/
+
+# Board configuration file
+# sketch.yaml
+
+# Compiled binaries
+*.bin
+*.elf
+*.hex
